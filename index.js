@@ -18,8 +18,7 @@
 // console.log(obj);
 
 
-let arr = [4,2,5,6,7,8,9,3,1,0]
-
+// let arr = [4,2,5,6,7,8,9,3,1,0]
 // arr.sort(); // sorted
 // arr.push(9) - // added last value 
 // arr.join("-") // X
@@ -28,4 +27,4 @@ let arr = [4,2,5,6,7,8,9,3,1,0]
 // arr.reverse() // reversed
 
 
-console.log(arr);
+// console.log(arr);
